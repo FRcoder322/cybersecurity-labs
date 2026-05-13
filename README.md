@@ -14,7 +14,7 @@ I am currently learning cybersecurity fundamentals, Linux, networking, and web s
 - TryHackMe
 
 ## TryHackMe Profile
-https://tryhackme.com/p/yourusername
+(https://tryhackme.com/p/RotichFlorence)
 
 ## Goal
 To build practical cybersecurity skills and document my learning journey.
