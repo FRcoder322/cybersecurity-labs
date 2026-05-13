@@ -1,8 +1,0 @@
-Using SSH to Login to Your Linux Machine
-The syntax to use SSH are:
-1. The IP address of the remote machine
-2. Correct credentials to a valid account to login with on the remote machine
-Title
-linuxfundpt2-badr- Ip address: 10.48.176.119
-Deploying the TryHackMe AttackBox
-On cmd: ssh tryhackme@10.48.176.119
